@@ -1,6 +1,6 @@
 # Clima
 A Weather App
-<p align="center" justify-content = "space-between" display="flex">
+<p align="center" gap=60 display="flex">
   <img src = "https://github.com/jonyoung123/Clima/blob/main/Screenshot_1654213491.png" width=250>
   <img src = "https://github.com/jonyoung123/Clima/blob/main/cityscreen.png" width=250>
  </p>
