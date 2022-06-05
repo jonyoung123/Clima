@@ -1,7 +1,6 @@
 # Clima
 A Weather App
 
-<video src="https://github.com/jonyoung123/Clima/blob/main/clima%20vid%20clip.mp4" >
 
  #### CLIMA App Screenshots
 
