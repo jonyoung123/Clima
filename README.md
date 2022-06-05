@@ -1,6 +1,9 @@
 # Clima
 A Weather App
-https://github.com/jonyoung123/Clima/blob/main/Screenshot_1654213491.png
+<p align="center">
+  <img src = "https://github.com/jonyoung123/Clima/blob/main/Screenshot_1654213491.png" width=350>
+  <img src = "https://github.com/jonyoung123/Clima/blob/main/cityscreen.png" width=350>
+ </p>
 
 
 ## ABOUT
