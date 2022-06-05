@@ -1,8 +1,7 @@
 # Clima
 A Weather App
-<p align="center">
-   <video src="https://github.com/jonyoung123/Clima/blob/main/clima%20vid%20clip.mp4" >
-</p>
+
+<video src="https://github.com/jonyoung123/Clima/blob/main/clima%20vid%20clip.mp4" >
 
  #### CLIMA App Screenshots
 
